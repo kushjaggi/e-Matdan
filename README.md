@@ -7,7 +7,6 @@ E-Matdan is an open-source e-voting system that uses blockchain technology to pr
 - Uses blockchain technology to create a tamper-proof and immutable record of each vote
 - Provides transparency to the voting process by using a public blockchain
 - Ensures the security of the system by using advanced cryptography techniques
-- Supports multiple voting methods, such as first-past-the-post, ranked-choice, and more
 - User-friendly interface that makes it easy for voters to cast their vote
 - Provides real-time results that can be accessed by anyone
 
